@@ -1,4 +1,4 @@
-# E-commerce-Application-Testing
+# E-commerce- Demo Application-Testing
 
 **Automation Testing Project: Learning from a Senior’s Blueprint**
 This project is a hands-on implementation based on a reference video by a senior developer from my course. The goal is to understand the fundamentals of Automation Testing by following a real-world example. By replicating this senior's project, I gain practical insights and a clear vision for building my own testing framework.
